@@ -9,7 +9,7 @@ linkcolor=blue,
 urlcolor=cyan,
 }
 \title{My Paper}
-\author{Rupali Kadam}
+\author{Srinidhi Avadhutha}
 \date{\today}
 \begin{document}
 	\maketitle
